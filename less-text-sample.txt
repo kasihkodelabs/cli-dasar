@@ -1,0 +1,14 @@
+Selamat datang di simulasi teks dengan perintah `less`!
+
+Anda saat ini sedang menggunakan perintah `less` untuk menjelajahi teks ini dalam bahasa Indonesia. `less` adalah utilitas baris perintah yang memungkinkan Anda melihat isi berkas teks secara bertahap. Anda dapat menggunakan tombol panah atas dan bawah untuk menggulir teks, serta tombol "q" untuk keluar dari mode `less`.
+
+Ini adalah contoh teks yang panjang untuk Anda jelajahi:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet, nulla sit amet condimentum venenatis, libero justo elementum tellus, eu volutpat nisi mi eu justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam nec arcu at libero interdum cursus vel ac erat. Sed sollicitudin mi vitae tellus hendrerit, nec facilisis odio accumsan. Nulla facilisi. Suspendisse potenti. Sed vel lorem id velit hendrerit ullamcorper. Nullam vitae nisi in mi iaculis mattis.
+
+Praesent auctor bibendum urna, at dictum lacus dignissim at. Sed bibendum est ut libero interdum, vel ullamcorper dolor fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque eget scelerisque erat. Nunc nec mauris ut ante mollis tincidunt. Fusce at ipsum nec magna tristique faucibus. Duis ut leo sed odio volutpat elementum. Proin vitae ex leo.
+
+Vivamus euismod, libero id consequat pellentesque, augue tortor vulputate orci, vel interdum arcu arcu vel tellus. Nulla tincidunt bibendum risus, at interdum ex interdum nec. Vivamus convallis ultricies ex a aliquam. Donec tincidunt venenatis dolor, eu varius neque efficitur et. Aliquam sagittis urna et purus varius, et suscipit purus convallis. Nullam lacinia bibendum diam id commodo. Integer in magna vel urna posuere congue.
+
+Terima kasih telah menggunakan simulasi teks dengan perintah `less`! Gunakan tombol panah untuk menjelajahi teks ini lebih lanjut atau tekan "q" untuk keluar.
+
